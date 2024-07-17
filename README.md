@@ -26,7 +26,7 @@
 2. Load `GoL-MIPS.asm`
 3. Paste the contents of `GoLCanvas.txt` into the section that says 
 ```assembly
-    # PASTE CANVAS CODE HERE #####################################################
+	# PASTE CANVAS CODE HERE #####################################################
 
 
 
